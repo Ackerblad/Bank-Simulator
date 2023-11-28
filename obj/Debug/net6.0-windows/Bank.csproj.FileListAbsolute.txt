@@ -1,0 +1,42 @@
+C:\Users\johan\Skrivbord\Bank-JohanAckerblad\Bank\obj\Debug\net6.0-windows\Bank.AccountCreationForm.resources
+C:\Users\johan\Skrivbord\Bank-JohanAckerblad\Bank\obj\Debug\net6.0-windows\Bank.AtmForm.resources
+C:\Users\johan\Skrivbord\Bank-JohanAckerblad\Bank\obj\Debug\net6.0-windows\Bank.FormBank.resources
+C:\Users\johan\Skrivbord\Bank-JohanAckerblad\Bank\obj\Debug\net6.0-windows\Bank.OfficeForm.resources
+C:\Users\johan\Skrivbord\Bank-JohanAckerblad\Bank\obj\Debug\net6.0-windows\Bank.Properties.Resources.resources
+C:\Users\johan\Skrivbord\Bank-JohanAckerblad\Bank\obj\Debug\net6.0-windows\Bank.csproj.GenerateResource.cache
+C:\Users\johan\Skrivbord\Bank-JohanAckerblad\Bank\obj\Debug\net6.0-windows\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\Skrivbord\Bank-JohanAckerblad\Bank\obj\Debug\net6.0-windows\Bank.AssemblyInfoInputs.cache
+C:\Users\johan\Skrivbord\Bank-JohanAckerblad\Bank\obj\Debug\net6.0-windows\Bank.AssemblyInfo.cs
+C:\Users\johan\Skrivbord\Bank-JohanAckerblad\Bank\obj\Debug\net6.0-windows\Bank.csproj.CoreCompileInputs.cache
+C:\Users\johan\Skrivbord\Bank-JohanAckerblad\Bank\bin\Debug\net6.0-windows\Bank.exe
+C:\Users\johan\Skrivbord\Bank-JohanAckerblad\Bank\bin\Debug\net6.0-windows\Bank.deps.json
+C:\Users\johan\Skrivbord\Bank-JohanAckerblad\Bank\bin\Debug\net6.0-windows\Bank.runtimeconfig.json
+C:\Users\johan\Skrivbord\Bank-JohanAckerblad\Bank\bin\Debug\net6.0-windows\Bank.dll
+C:\Users\johan\Skrivbord\Bank-JohanAckerblad\Bank\bin\Debug\net6.0-windows\Bank.pdb
+C:\Users\johan\Skrivbord\Bank-JohanAckerblad\Bank\obj\Debug\net6.0-windows\Bank.dll
+C:\Users\johan\Skrivbord\Bank-JohanAckerblad\Bank\obj\Debug\net6.0-windows\refint\Bank.dll
+C:\Users\johan\Skrivbord\Bank-JohanAckerblad\Bank\obj\Debug\net6.0-windows\Bank.pdb
+C:\Users\johan\Skrivbord\Bank-JohanAckerblad\Bank\obj\Debug\net6.0-windows\Bank.genruntimeconfig.cache
+C:\Users\johan\Skrivbord\Bank-JohanAckerblad\Bank\obj\Debug\net6.0-windows\ref\Bank.dll
+C:\Users\johan\Skrivbord\Ny mapp\Bank\bin\Debug\net6.0-windows\Bank.exe
+C:\Users\johan\Skrivbord\Ny mapp\Bank\bin\Debug\net6.0-windows\Bank.deps.json
+C:\Users\johan\Skrivbord\Ny mapp\Bank\bin\Debug\net6.0-windows\Bank.runtimeconfig.json
+C:\Users\johan\Skrivbord\Ny mapp\Bank\bin\Debug\net6.0-windows\Bank.dll
+C:\Users\johan\Skrivbord\Ny mapp\Bank\bin\Debug\net6.0-windows\Bank.pdb
+C:\Users\johan\Skrivbord\Ny mapp\Bank\obj\Debug\net6.0-windows\Bank.AccountCreationForm.resources
+C:\Users\johan\Skrivbord\Ny mapp\Bank\obj\Debug\net6.0-windows\Bank.AtmForm.resources
+C:\Users\johan\Skrivbord\Ny mapp\Bank\obj\Debug\net6.0-windows\Bank.FormBank.resources
+C:\Users\johan\Skrivbord\Ny mapp\Bank\obj\Debug\net6.0-windows\Bank.OfficeForm.resources
+C:\Users\johan\Skrivbord\Ny mapp\Bank\obj\Debug\net6.0-windows\Bank.Properties.Resources.resources
+C:\Users\johan\Skrivbord\Ny mapp\Bank\obj\Debug\net6.0-windows\Bank.csproj.GenerateResource.cache
+C:\Users\johan\Skrivbord\Ny mapp\Bank\obj\Debug\net6.0-windows\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\Skrivbord\Ny mapp\Bank\obj\Debug\net6.0-windows\Bank.AssemblyInfoInputs.cache
+C:\Users\johan\Skrivbord\Ny mapp\Bank\obj\Debug\net6.0-windows\Bank.AssemblyInfo.cs
+C:\Users\johan\Skrivbord\Ny mapp\Bank\obj\Debug\net6.0-windows\Bank.csproj.CoreCompileInputs.cache
+C:\Users\johan\Skrivbord\Ny mapp\Bank\obj\Debug\net6.0-windows\Bank.dll
+C:\Users\johan\Skrivbord\Ny mapp\Bank\obj\Debug\net6.0-windows\refint\Bank.dll
+C:\Users\johan\Skrivbord\Ny mapp\Bank\obj\Debug\net6.0-windows\Bank.pdb
+C:\Users\johan\Skrivbord\Ny mapp\Bank\obj\Debug\net6.0-windows\Bank.genruntimeconfig.cache
+C:\Users\johan\Skrivbord\Ny mapp\Bank\obj\Debug\net6.0-windows\ref\Bank.dll
+C:\Users\johan\Skrivbord\Bank-JohanAckerblad\Bank\obj\Debug\net6.0-windows\Bank.ViewAccountForm.resources
+C:\Users\johan\Skrivbord\Bank-JohanAckerblad\Bank\obj\Debug\net6.0-windows\Bank.UnblockAccountForm.resources
