@@ -5,11 +5,11 @@
 The application consists of an office section where the user can create and manage their bank accounts. The other section is an ATM simulator, where the user can perform transactions. All information about the bank accounts is saved locally to a CSV file, and the PIN codes are hashed using the SHA-256 algorithm. If the user enters the wrong PIN code three times in the ATM, the chosen account gets blocked. The user then needs to go to the office section to unblock the account by choosing a new PIN code. </p>
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/Ackerblad/Bank-Simulator/blob/master/Screenshots%20for%20ReadMe/startWindow.png" alt="project-screenshot" width="375" height="248/">
+<img src="https://github.com/Ackerblad/Bank-Simulator/blob/master/Screenshots%20for%20ReadMe/startWindow.png" alt="project-screenshot" width="428" height="270/">
 
 <img src="https://github.com/Ackerblad/Bank-Simulator/blob/master/Screenshots%20for%20ReadMe/officeWindow.png" alt="project-screenshot" width="467" height="339/">
 
-<img src="https://github.com/Ackerblad/Bank-Simulator/blob/master/Screenshots%20for%20ReadMe/createAccount.png" alt="project-screenshot" width="578" height="461/">
+<img src="https://github.com/Ackerblad/Bank-Simulator/blob/master/Screenshots%20for%20ReadMe/createAccount.png" alt="project-screenshot" width="578" height="500/">
 
 <img src="https://github.com/Ackerblad/Bank-Simulator/blob/master/Screenshots%20for%20ReadMe/accountOverview.png" alt="project-screenshot" width="658" height="464/">
 
