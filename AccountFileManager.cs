@@ -13,7 +13,7 @@ namespace Bank
     {
         private const string FilePath = "accounts.csv";
 
-        //Create the CSV file if i dosen't exist and save the new account to the file 
+        //Create the CSV file if it dosen't exist and save the new account to the file 
         public void SaveAccountsToFile(List<Account> accounts)
         {
             try

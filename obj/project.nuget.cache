@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hnyuEAnCGP+T0QRFWeRkByD7leLoNXskwAtfMLebUch1Orxwq5esumLAlzm7RtUZS+b6EM9SfsT4LGqR0Ji/5Q==",
+  "dgSpecHash": "lvWKd87dI7IBZQaSzw3FmldmY4mwO2lGOj7B2mHhXtAz1Np1X1412ITbUHnFiD/QxYiMTTrc/cHUBKJjxchNGQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\johan\\Skrivbord\\Bank\\Bank.csproj",
+  "projectFilePath": "C:\\Users\\johan\\Skrivbord\\Repositories\\Bank\\Bank.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

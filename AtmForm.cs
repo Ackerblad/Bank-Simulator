@@ -225,7 +225,7 @@ namespace Bank
                 }
                 else if (withdrawAmount > selectedAccount.Balance)
                 {
-                    MessageBox.Show($"You do not have enough money on you account, current balance: {selectedAccount.Balance} SEK");
+                    MessageBox.Show($"You do not have enough money on your account, current balance: {selectedAccount.Balance} SEK.");
                     withdrawAmountLabel.Text = "";
                     transactionPanel.Visible = true;
                     withdrawPanel.Visible = false;
@@ -289,7 +289,7 @@ namespace Bank
             }
         }
 
-        //The output from the number buttons are decided by the tag of the button
+        //The output from the number buttons is decided by the tag of the button
         private void numberButton_Click(object sender, EventArgs e)
         {
             Button numberButton = sender as Button;
